@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/28BOgWGg)
 # Exercise 2 - Lists and indices (10 points)
 
 The exercise for this week is meant to help you better understand lists in Python, and practice saving changes to your files using Git and GitHub. You will also get to practice the Markdown syntax. 
